@@ -3,5 +3,8 @@ export default function Footer() {
     <footer className="footer">
       <p>© 2025 Next Blog. Built by Aryan Pathak.</p>
     </footer>
+
+
+  // footer
   );
 }

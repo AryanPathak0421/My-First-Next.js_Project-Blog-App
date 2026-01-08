@@ -7,6 +7,7 @@ async function getPosts() {
   return res.json();
 }
 
+
 export default async function BlogPage() {
   const posts = await getPosts();
 

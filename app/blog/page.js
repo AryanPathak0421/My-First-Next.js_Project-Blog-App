@@ -8,6 +8,9 @@ async function getPosts() {
 }
 
 
+
+// next.js
+
 export default async function BlogPage() {
   const posts = await getPosts();
 
